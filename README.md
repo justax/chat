@@ -8,7 +8,7 @@ Simple erlang chat using Cowboy websocket protocol. User can use default room or
 git clone https://github.com/justax/chat.git
 
 rebar get-deps
-rebar complie
+rebar compile
 
 erl -pa ebin -pa deps/*/ebin -s chat
 
