@@ -12,3 +12,4 @@ rebar compile
 erl -pa ebin -pa deps/*/ebin -s chat
 ```
 
+Open tons of ```http://localhost:8080/``` and enjoy chatting with yourself.
