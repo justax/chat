@@ -4,12 +4,11 @@ Simple erlang chat using Cowboy websocket protocol. User can use default room or
 
 ## Usage
 
-```bash
+```
 git clone https://github.com/justax/chat.git
-
+cd chat
 rebar get-deps
 rebar compile
-
 erl -pa ebin -pa deps/*/ebin -s chat
-
 ```
+
