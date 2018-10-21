@@ -1,8 +1,8 @@
 ## Erlang Chat
 
-Simple erlang chat using Cowboy websocket protocol. User can use default room or join/create to the new one on connection. Messages come to all users within certain room. Also some sort of bot leave in each room.
+Simple erlang chat using Cowboy websocket protocol. User can use default room or join/create to the new one on connection. Messages come to all users within the certain room. Also some sort of the bot leaves in each room.
 
-## Installation
+## Usage
 
 ```bash
 git clone https://github.com/justax/chat.git
